@@ -6,3 +6,4 @@ python-dotenv
 pandas
 chardet
 sentence-transformers 
+faiss-cpu
