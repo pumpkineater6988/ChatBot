@@ -7,3 +7,4 @@ pandas
 chardet
 sentence-transformers 
 faiss-cpu
+pypdf
